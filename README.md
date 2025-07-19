@@ -1,11 +1,10 @@
 # Arduino-Sensor-Projects
 
 # Project 1: TempSense-LED-Control  
-LED control using TMP36 temperature sensor and push button. Turns on above 50°C, Auto shutoff and manual disable supported
+This Arduino project demonstrates how to control an LED based on temperature readings from a TMP36 sensor, with circuit control via a push button. The LED activates when the temperature exceeds a certain threshold and turns off after a delay or when the circuit is disabled
 
 
 ### Components Used
-
 - Arduino Uno  
 - TMP36 Temperature Sensor  
 - Push Button  
